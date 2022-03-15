@@ -1,4 +1,4 @@
-David DA SILVA, Développeur iOS.
+#David DA SILVA, Développeur iOS.
 
 Bonjour à tous, je m'apelle David DA SILVA et je suis Développeur iOS. Suite à un Bac+3 en gestion d'entreprise, j'ai pris l'initiative de me réorienter en qualité de "Développeur iOS", après des études que j'ai effectué chez OpenClassrooms, je suis en cours d'obtenir mon diplome Bac+4 sur la formation de "Développeur iOS". Vous pouvez voir ci-dessous les différents projets que j'ai pu réalisé lors de ma formation et également des projets personnels.
 
