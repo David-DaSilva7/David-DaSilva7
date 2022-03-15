@@ -3,6 +3,7 @@
 Bonjour à tous, je m'apelle David DA SILVA et je suis Développeur iOS. Suite à un Bac+3 en gestion d'entreprise, j'ai pris l'initiative de me réorienter en qualité de "Développeur iOS", après des études que j'ai effectué chez OpenClassrooms, je suis en cours d'obtenir mon diplome Bac+4 sur la formation de "Développeur iOS". Vous pouvez voir ci-dessous les différents projets que j'ai pu réalisé lors de ma formation et également des projets personnels.
 
 ## [<img src=AppsIcons/RecipleaseLogo.png width="50"> Reciplease](https://github.com/FabriceOrtega/KanjiMemo)
+## [<img src=AppsIcons/LeBaluchonLogo.png width="50"> Le Baluchon](https://github.com/David-DaSilva7/LeBaluchon)
 
 <!--
 **David-DaSilva7/David-DaSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
