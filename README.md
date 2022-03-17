@@ -16,8 +16,6 @@ Dans le cadre du projet 9 de ma formation chez OpenClassrooms, j'ai du réaliser
 - Traduisez depuis votre langue favorite vers l'anglais
 - Comparez la météo locale et celle de votre bon vieux chez vous (histoire d'être bien content d'être parti... ou pas !)
 
-<img src=imagePhone/imageInstagrid1.png width="200">
-
 ## [<img src=AppsIcons/CountOnMeLogo.png width="50"> CountOnMe](https://github.com/David-DaSilva7/Projet_CountOnMe)
 **Frameworks:** UIKit, XCTest / **Design pattern:** MVC
 
@@ -31,6 +29,8 @@ Dans le cadre du projet 5 de ma formation chez OpenClassrooms, j'ai du améliore
 **Frameworks:** UIKit
 
 Dans le cadre du projet 4 de ma formation chez OpenClassrooms, j'ai du réaliser Instagrid, une application qui permet de combiner plusieurs photos dans un format carré et de partager le résultat avec ses amis via ses applications préférées.
+
+<img src=imagePhone/imageInstagrid1.png width="200"> <img src=imagePhone/imageInstagrid2.png width="200"> <img src=imagePhone/imageInstagrid3.png width="200"> <img src=imagePhone/imageInstagrid4.png width="200">
 
 <!--
 **David-DaSilva7/David-DaSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
