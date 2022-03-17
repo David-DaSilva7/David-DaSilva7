@@ -16,6 +16,8 @@ Dans le cadre du projet 9 de ma formation chez OpenClassrooms, j'ai du réaliser
 - Traduisez depuis votre langue favorite vers l'anglais
 - Comparez la météo locale et celle de votre bon vieux chez vous (histoire d'être bien content d'être parti... ou pas !)
 
+<img src=imagePhone/imageInstagrid1.png width="200">
+
 ## [<img src=AppsIcons/CountOnMeLogo.png width="50"> CountOnMe](https://github.com/David-DaSilva7/Projet_CountOnMe)
 **Frameworks:** UIKit, XCTest / **Design pattern:** MVC
 
