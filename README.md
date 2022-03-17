@@ -30,7 +30,7 @@ Dans le cadre du projet 5 de ma formation chez OpenClassrooms, j'ai du améliore
 
 Dans le cadre du projet 4 de ma formation chez OpenClassrooms, j'ai du réaliser Instagrid, une application qui permet de combiner plusieurs photos dans un format carré et de partager le résultat avec ses amis via ses applications préférées.
 
-<img src=imagePhone/imageInstagrid1.png width="200"> <img src=imagePhone/imageInstagrid2.png width="200"> <img src=imagePhone/imageInstagrid3.png width="200"> <img src=imagePhone/imageInstagrid4.png width="200">
+<img src=imagePhone/imageInstagrid1.png width="200">       <img src=imagePhone/imageInstagrid2.png width="200"> <img src=imagePhone/imageInstagrid3.png width="200"> <img src=imagePhone/imageInstagrid4.png width="200">
 
 <!--
 **David-DaSilva7/David-DaSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
