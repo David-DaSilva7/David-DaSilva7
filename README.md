@@ -2,11 +2,10 @@
 
 Bonjour à tous, je m'apelle David DA SILVA et je suis Développeur iOS. Suite à une formation Bac+3 en gestion d'entreprise, j'ai choisis de me réorienter en qualité de "Développeur iOS", après des études que j'ai effectué chez OpenClassrooms, j'ai obtenu mon diplome Bac+4 "Développeur iOS". Vous pouvez voir ci-dessous les différents projets que j'ai pu réaliser lors de ma formation et également des projets personnels.
 
-## [<img src=AppsIcons/EventLogo.png width="50"> Events](https://github.com/David-DaSilva7/Event's)
+## [<img src=AppsIcons/EventLogo.png width="50"> Event's](https://github.com/David-DaSilva7/Event's)
 **Language de programmation:** Swift / **Frameworks:** UIKit, CoreData, XCTest / **External library:** Alamofire, Mockingjay / **API:** edamam / **Design pattern:** MVC
 
-Dans le cadre du projet 10 de ma formation chez OpenClassrooms, j'ai du réaliser l'application "Reciplease", une application pour de bons petits plats. Imaginez une application de recettes simples et efficaces pour ne plus jamais être en panne d’inspiration le soir en rentrant du boulot ! C’est que ce tout le monde veut : cuisiner des produits frais et manger des repas variés ! Mais on n’a plus le temps de tergiverser devant son frigo.
-L’utilisateur entre les ingrédients dont il dispose et l’application lui propose les recettes correspondantes. 
+Dans le cadre du projet 12 de ma formation chez OpenClassrooms, j'ai réalisé l'application "Event's", une application mobile qui a pour but d’organiser les différents évènements (week-end, vacances, anniversaires, soirées, …). Ce Projet m’a permis la réalisation de A à Z d’une application, en passant de l'idée au codage, en conséquence cela m’a permis d’acquérir de nouvelles compétences sur toutes les étapes d’un projet d’application mobile.
 
 <img src=imagePhone/imageEvent1.png width="200"> <img src=imagePhone/imageEvent2.png width="200"> <img src=imagePhone/imageEvent3.png width="200"> <img src=imagePhone/imageEvent4.png width="200">
 
