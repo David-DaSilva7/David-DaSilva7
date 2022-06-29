@@ -2,7 +2,7 @@
 
 Bonjour à tous, je m'apelle David DA SILVA et je suis Développeur iOS. Suite à une formation Bac+3 en gestion d'entreprise, j'ai choisis de me réorienter en qualité de "Développeur iOS", après des études que j'ai effectué chez OpenClassrooms, j'ai obtenu mon diplome Bac+4 "Développeur iOS". Vous pouvez voir ci-dessous les différents projets que j'ai pu réaliser lors de ma formation et également des projets personnels.
 
-## [<img src=AppsIcons/EventLogo.png width="50"> Events](https://github.com/David-DaSilva7/Event's)
+## [<img src=AppsIcons/EventLogo.png width="50"> Events](https://github.com/David-DaSilva7/Event-s)
 **Language de programmation:** Swift / **Frameworks:** UIKit, CoreData, XCTest / **Design pattern:** MVC
 
 Dans le cadre du projet 12 de ma formation chez OpenClassrooms, j'ai réalisé l'application "Event's", une application mobile qui a pour but d’organiser les différents évènements (week-end, vacances, anniversaires, soirées, …). Ce Projet m’a permis la réalisation de A à Z d’une application, en passant de l'idée au codage, en conséquence cela m’a permis d’acquérir de nouvelles compétences sur toutes les étapes d’un projet d’application mobile.
